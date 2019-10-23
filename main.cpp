@@ -1,6 +1,6 @@
 #include <iostream>
 
-unsigned long long F0 = 0, F1 = 1;
+unsigned long long F0 = 1, F1 = 1;
 
 unsigned long long fib() {
     F0 = F0 + F1;
